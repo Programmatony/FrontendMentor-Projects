@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]([https://your-solution-url.com](https://github.com/Programmatony/FrontendMentor-Projects/tree/main/expenses-chart-component-main))
+- Solution URL: [Solution](https://github.com/Programmatony/FrontendMentor-Projects/tree/main/expenses-chart-component-main)
 
 ## My process
 
